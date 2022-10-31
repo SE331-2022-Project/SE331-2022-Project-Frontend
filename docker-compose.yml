@@ -3,4 +3,4 @@ services:
   web:
     image: "burussakorn45/331-securitylab:latest"
     ports:
-      - 8081:80
+      - 9000:80
